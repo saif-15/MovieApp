@@ -1,8 +1,6 @@
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:movieapp/data/models/movies_result_model.dart';
-
 import 'api_constants.dart';
 
 class ApiClient {
